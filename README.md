@@ -82,13 +82,13 @@ Each EEG feature is scored 0 (favorable) or a time-window-specific weight (unfav
 
 Open the calculator and choose the time window of the EEG recording (**Day 1**, **Day 2–5**, or **> Day 5**).
 
-![Step 1: select time window](images/step1_select_time_window.png)
+<img width="372" height="262" alt="step1_select_time_window" src="https://github.com/user-attachments/assets/15dd0fef-1103-4609-a3c1-111a57aeab85" />
 
 ### Step 2 — Calculate the SERS
 
 Click **Calculate** to open the EEG scoring panel. For each of the five EEG features, select the patient's finding from the drop-down menu, then click **Calculate EEG score**. The SERS is filled in automatically.
 
-![Step 2: calculate EEG score](images/step2_calculate_eeg_score.png)
+<img width="367" height="262" alt="step2_calculate_eeg_score" src="https://github.com/user-attachments/assets/f2ec0fbc-5582-4e39-a293-8049b4cf721a" />
 
 ### Step 3 — Enter clinical indicators and obtain the risk estimate
 
@@ -104,7 +104,7 @@ Complete the remaining fields:
 
 Click **Calculate risk**. The tool outputs the **risk category** (e.g., *High risk of mortality*) and the **estimated probability** of poor outcome.
 
-![Step 3: view result](images/step3_view_result.png)
+<img width="665" height="663" alt="step3_view_result" src="https://github.com/user-attachments/assets/01f8fc48-c247-4867-8e22-bc294fdb76e8" />
 
 ## Model Performance
 
